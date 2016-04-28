@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dearistophaneeur00leeuuoft_0179.png"; bbox 0 0 1956 3346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 692 679 839 2446">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 692 679 839 2446">
+     <span class='ocr_line' id='line_1_1' title="bbox 692 679 839 2446; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 803 2270 839 2446; x_wconf 71' lang='lat' dir='ltr'><strong>Author</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 786 1958 836 2230; x_wconf 59' lang='grc' dir='ltr'><strong>,ιοειιπεω</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 700 1052 826 1918; x_wconf 34' lang='lat' dir='ltr'><strong>schann2?‚m‚mqt„Amsstqrdam</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 692 716 802 925; x_wconf 45' lang='lat' dir='ltr'><strong>Lzssm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 790 679 793 689; x_wconf 73' lang='grc'><strong>.,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 866 1119 960 2444">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 866 993 960 2444">
+     <span class='ocr_line' id='line_1_2' title="bbox 866 1119 960 2444; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 926 2330 960 2444; x_wconf 44' lang='lat' dir='ltr'><strong>&#39;rme</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 877 1749 959 2281; x_wconf 49' lang='lat' dir='ltr'><strong>-2&#39;90-Ai1et‘0phane</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 866 1119 952 1716; x_wconf 53' lang='lat' dir='ltr'><strong>Efirtffldieoeensore.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1018 422 1930 2564">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1018 422 1930 2564">
+     <span class='ocr_line' id='line_1_3' title="bbox 1018 422 1930 2564; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 1018 422 1930 2564; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
